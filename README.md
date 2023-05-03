@@ -1,5 +1,6 @@
 # OS
 A bare metal Rust based OS (for education purpose)
+to follow the tutorial go to [here](https://os.phil-opp.com/) thanks Philipp Oppermann!
 
 
 # install dependencies
