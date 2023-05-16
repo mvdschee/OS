@@ -1,4 +1,5 @@
-# OS
+# <img width="972" alt="Screenshot 2023-05-16 at 14 39 29" src="https://github.com/mvdschee/OS/assets/26795741/a701897c-22b0-4018-85d2-644fe0914692">
+OS
 A bare metal Rust based OS (for education purpose)
 to follow the tutorial go to [here](https://os.phil-opp.com/) thanks Philipp Oppermann!
 
